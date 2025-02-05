@@ -90,10 +90,13 @@ This directory contains all the fxml files.
 ## Authors
 
 - **Sumaiya Rahman Soma**
+  <br>
   Github: https://github.com/srs4929
+  <br>
 - **Chowdhury Shafahid Rahman**
+  <br>
   Github: https://github.com/Shafahid
-
+  <br>
 ---
 
 ## Download Instructions
