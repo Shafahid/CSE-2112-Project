@@ -1,5 +1,6 @@
-﻿# RESQURE-OOP-PROJECT-2-1-
-
+﻿# CSE-2112-Project
+ 
+<h2>Resqure Disaster Manangement System</h2>
 
 
 ## Overview
